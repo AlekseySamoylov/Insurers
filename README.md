@@ -1,6 +1,7 @@
 # Insurers
 Spring
 HibernateORM
+Oracle 11g xe
 
 Prognoz Project.pdf содержит изображение схемы сущностей.
 
